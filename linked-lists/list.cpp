@@ -157,11 +157,12 @@ public:
     }
 };
 
-int main()
-{
-    DLL a;
-    a.addFirst(12);
-    a.addFirst(13);
-    a.addFirst(14);
-    a.allNodes();
-}
+// int main()
+// {
+//     DLL a;
+//     a.addFirst(12);
+//     a.addFirst(13);
+//     a.addFirst(14);
+//     a.allNodes();
+//     a.removeFirst();
+// }
