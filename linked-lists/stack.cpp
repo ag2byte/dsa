@@ -29,16 +29,16 @@ public:
         s.allNodes();
     }
 };
-int main()
-{
-    Stack s;
-    s.push(12);
-    s.push(13);
-    s.push(14);
-    s.display();
-    cout << endl;
-    s.top();
-    s.pop();
-    cout << endl;
-    s.display();
-}
+// int main()
+// {
+//     Stack s;
+//     s.push(12);
+//     s.push(13);
+//     s.push(14);
+//     s.display();
+//     cout << endl;
+//     s.top();
+//     s.pop();
+//     cout << endl;
+//     s.display();
+//
