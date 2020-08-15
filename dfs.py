@@ -1,3 +1,4 @@
+# no output, work left
 from collections import defaultdict
 
 G = defaultdict(list)
