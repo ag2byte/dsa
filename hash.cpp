@@ -1,4 +1,7 @@
 // using hashmap in c++ implementing seperate chaining
+
+// does not work currently, somework to be done
+
 #include <iostream>
 #include <list>
 #include <cstring>
